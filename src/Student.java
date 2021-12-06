@@ -9,7 +9,7 @@ public class Student {
         this.course = course;
     }
 
-    public Student(String olga, String john, String algebra, String biology) {
+    public Student(String name, String course) {
     }
 
     enum Course{

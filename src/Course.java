@@ -2,7 +2,6 @@ public class Course {
     public Course(String name) {
         this.name = name;
     }
-
     String name;
 
     public String getName() {
