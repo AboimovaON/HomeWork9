@@ -3,7 +3,6 @@ import java.util.Arrays;
 
 public class Main {
     public void main(String[] args) {
-
         Student stud1 = new Student("John", Arrays.asList("Algebra", "Biology", "Drawing"));
         Student stud2 = new Student("Olga", Arrays.asList("Chemistry", "Geography", "Geometry", "History"));
         Student stud3 = new Student("Lena", Arrays.asList("Chemistry", "Geography", "Geometry"));
